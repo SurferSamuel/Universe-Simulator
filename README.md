@@ -2,7 +2,7 @@
 
 An interactive (and to scale) simulator of our solar system, made using Unity. Inspired by NASA's ["Eyes on the Solar System"](https://eyes.nasa.gov/apps/solar-system/#/home).
 
-## Demo Video
+## Quick Demo Video
 
 https://github.com/SurferSamuel/Universe-Simulator/assets/60723656/b4463470-3168-477f-a50c-8215d08e82b8
 
